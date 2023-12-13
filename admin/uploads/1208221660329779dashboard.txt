@@ -1,0 +1,18 @@
+Student
+ - Tests
+ - Student List
+ - Academic Progress
+
+Study Notes
+ - Add Notes
+ - All Notes
+
+Revision Class
+ - Add New
+ - Show All
+
+Helpline
+ - Show All
+
+teacher
+-request approvel
